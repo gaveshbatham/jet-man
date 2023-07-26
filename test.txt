@@ -1,0 +1,1 @@
+if (PLAYER_POS_X>x_energy and PLAYER_POS_X<x_energy+actro.get_width()-5 and PLAYER_POS_y>y1_astro and PLAYER_POS_y<y1_astro+actro.get_width()-5) or (PLAYER_POS_X+player.get_width()>x_energy and PLAYER_POS_X + player.get_width()<x_energy+actro.get_width()-5 and PLAYER_POS_y+player.get_height()>y1_astro and PLAYER_POS_y+player.get_height()<y1_astro+actro.get_width()-5):
